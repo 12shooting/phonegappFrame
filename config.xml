@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns = "http://www.w3.org/ns/widgets"
           xmlns:gap = "http://phonegap.com/ns/1.0"
-          id = "com.ero-play.einbrecherin.app"
-          version = "1.0.2">
+          id = "com.ero-play.app.einbrecherin"
+          version = "1.0.3">
   
       <name>Einbrecherin</name>
   
   
-      <author href="https://github.com/12shooting/phonegappFrame" email="kontakt@ero-play.com">
-          12Shooting
+      <author href="www.ero-play.com" email="kontakt@ero-play.com">
+          www.ero-play.com
       </author>
       <gap:platform name="android" />
       <preference name="orientation" value="portrait" />
